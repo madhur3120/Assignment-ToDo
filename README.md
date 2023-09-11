@@ -13,3 +13,6 @@ A flexible and user-friendly ToDo Progress Board made with React.
 - Click on the "Edit Stages" button.
 - Here, you can add new stages, edit the name of existing ones, or delete stages.
 - Once done, save changes and your board will reflect the new stages.
+
+Demo :
+![](https://github.com/Assignment-ToDo/Assignment-Gif.gif)
