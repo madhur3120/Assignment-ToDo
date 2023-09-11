@@ -15,4 +15,4 @@ A flexible and user-friendly ToDo Progress Board made with React.
 - Once done, save changes and your board will reflect the new stages.
 
 Demo :
-![](https://github.com/madhur3120/Assignment-ToDo/Assignment-Gif.gif)
+![](https://github.com/madhur3120/Assignment-ToDo/blob/main/Assignment-Gif.gif)
