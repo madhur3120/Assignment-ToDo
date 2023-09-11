@@ -5,7 +5,7 @@
 .custom-scroll::-webkit-scrollbar-thumb {
   border-radius: 50px;
   border: 1px solid #ccc;
-  background-color: #fff;
+  background-color: beige;
 }
 
 .custom-scroll::-webkit-scrollbar-thumb:hover {
@@ -17,7 +17,7 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color:  #89CFF0;
+  background-color:  #F8F0E5;
 }
 
 .app_nav {
@@ -26,8 +26,7 @@
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   position: sticky;
   top: 0;
-  background-color: #7f53ac;
-background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);
+  background-color: #DAC0A3;
 }
 
 .app_boards_container {

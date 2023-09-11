@@ -132,7 +132,7 @@ function CardInfo(props) {
         <div className="cardinfo_box">
           <div className="cardinfo_box_title">
             <List />
-            <p>Description</p>
+            <p>More Details</p>
           </div>
           <Editable
             defaultValue={values.desc}
