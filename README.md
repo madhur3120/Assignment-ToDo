@@ -1,6 +1,9 @@
 ﻿# Assignment-ToDo
 A flexible and user-friendly ToDo Progress Board made with React.
 
+##To Run
+Clone this repository and type 'npm start' in the terminal to start the application
+
 ## Features
 - **Users**: Create individual accounts to manage your tasks and boards.
 - **Boards**: As a user, you can create multiple boards to manage different sets of tasks.
