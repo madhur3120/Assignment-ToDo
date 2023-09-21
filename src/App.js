@@ -123,7 +123,7 @@ function App() {
   return (
     <div className="app">
       <div className="app_nav">
-        <h1>Zuddl Assigment: Trello</h1>
+        <h1>TaskTrail</h1>
       </div>
       <div className="app_boards_container">
         <div className="app_boards">
