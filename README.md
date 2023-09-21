@@ -17,5 +17,3 @@ Clone this repository and type 'npm start' in the terminal to start the applicat
 - Here, you can add new stages, edit the name of existing ones, or delete stages.
 - Once done, save changes and your board will reflect the new stages.
 
-Demo :
-![](https://github.com/madhur3120/Assignment-ToDo/blob/main/Assignment-Gif.gif)
