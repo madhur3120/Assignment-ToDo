@@ -1,7 +1,7 @@
-﻿# Assignment-ToDo
-A flexible and user-friendly ToDo Progress Board made with React.
+﻿# TaskTrail 
+A kanban web application for productivity and management built on react.js
 
-##To Run
+## To Run
 Clone this repository and type 'npm start' in the terminal to start the application
 
 ## Features
@@ -17,5 +17,4 @@ Clone this repository and type 'npm start' in the terminal to start the applicat
 - Here, you can add new stages, edit the name of existing ones, or delete stages.
 - Once done, save changes and your board will reflect the new stages.
 
-Demo :
-![](https://github.com/madhur3120/Assignment-ToDo/blob/main/Assignment-Gif.gif)
+![Demo for application](demo-gif1.gif)
