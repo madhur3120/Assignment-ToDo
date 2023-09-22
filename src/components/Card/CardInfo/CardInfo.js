@@ -9,8 +9,8 @@ import {
   X,
 } from "react-feather";
 
-import Modal from "../../Modal/Modal";
-import Editable from "../../Editabled/Editable";
+import Modal from "../../Modal/Modal.js";
+import Editable from "../../Editabled/Editable.js";
 
 import "./CardInfo.css";
 

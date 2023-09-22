@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { MoreHorizontal } from "react-feather";
 
-import Card from "../Card/Card";
-import Dropdown from "../Dropdown/Dropdown";
-import Editable from "../Editabled/Editable";
+import Card from "../Card/Card.js";
+import Dropdown from "../Dropdown/Dropdown.js";
+import Editable from "../Editabled/Editable.js";
 
 import "./Board.css";
 
